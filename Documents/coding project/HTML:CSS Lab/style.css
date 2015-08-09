@@ -1,0 +1,39 @@
+h1 {
+	color: red;
+	position:relative;
+}
+
+img {
+	width: 204px;
+	height:153px;
+	position: absolute;
+	right: 0px;
+	top: 95px;
+}
+
+table { 
+	border-collapse: collapse;
+	text-align: center;
+}
+
+.green {
+	color: green;
+}
+
+.Bold {
+	font-weight: bold;
+}
+
+.background {
+	background-color: #DCDCDC;
+}
+
+h2 {
+	background-color: yellow;
+	color: #7D0804;
+}
+
+.indent {
+	position:relative;
+	top:60px;
+}
